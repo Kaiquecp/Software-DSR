@@ -1,0 +1,3 @@
+Este código realiza o cálculo das folgas de motoristas com base em uma tabela SQL do banco de dados, seguindo a lógica de que o motorista trabalha por 6 dias e folga 1. A partir disso, o código calcula a sequência de dias trabalhados e determina o 
+dia da folga correspondente. O código pode ser executado como um arquivo executável, que foi desenvolvido com uma interface gráfica utilizando Tkinter. A interface permite que o usuário selecione motoristas de uma lista, 
+insira um intervalo de datas e visualize todos os motoristas que irão folgar nesse período. Além disso, a interface oferece a opção de exportar os resultados para um arquivo Excel.
